@@ -245,6 +245,9 @@ Without Oracles
 - [Floor Perps](https://www.paradigm.xyz/2021/08/floor-perps/)
 
 ##### Projects
+- [Hook](https://hook.xyz/) - NFT-Native options
+  - [Docs](https://docs.hook.xyz/)
+  - [Protocol Overview](https://blog.hook.xyz/nft-call-options/)
 - [Floor](https://floor.xyz/) - Liquidity for NFTs
   - [Introducing FloorDAO](https://floordao.medium.com/floordao-hello-defi-meet-nfts-f16b986ed3b7)
 - [Fraction](https://fraction.art/)
